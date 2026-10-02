@@ -1,0 +1,6 @@
+{
+  "name": "LUME - Gestão Inteligente",
+  "description": "Plataforma premium para revendedores multimarcas gerirem vendas, lucros e cobranças via WhatsApp com estética minimalista Apple-inspired.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

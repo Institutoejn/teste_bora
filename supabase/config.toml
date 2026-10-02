@@ -1,0 +1,5 @@
+# Supabase Edge Functions Configuration
+# Configuração de segurança de Edge Functions do projeto BORA
+
+[functions.mercadopago-webhook]
+verify_jwt = false
